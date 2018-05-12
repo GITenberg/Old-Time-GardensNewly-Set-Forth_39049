@@ -1,0 +1,29 @@
+_repo: Old-Time-GardensNewly-Set-Forth_39049
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Earle, Alice Morse
+    alias: Earle, Mary Alice Morse
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '2836'
+    url: http://www.gutenberg.org/2009/agents/2836
+description: ''
+gutenberg_issued: '2012-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39049'
+  lccn: 01026599
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardens'
+- !lcsh 'Landscape gardening'
+- !lcc 'SB'
+title: Old-Time Gardens, Newly Set Forth
+url: http://www.gutenberg.org/ebooks/39049
